@@ -1,9 +1,9 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 import turtle as t
-from task1.shapedetector import *
-from task1.centre_of_shape import *
-from task1.color_detector import *
+from shapedetector import *
+from centre_of_shape import *
+from color_detector import *
 import argparse
 import imutils
 import cv2 
