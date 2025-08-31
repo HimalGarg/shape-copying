@@ -13,16 +13,17 @@ This project combines **OpenCV**, **Tkinter**, and **Python Turtle Graphics** to
 
 ## 📂 Project Structure
 ├── main.py # Main script
+<br>
 ├── shapedetector.py # Shape detection utilities
+<br>
 ├── centre_of_shape.py # Functions to calculate centroids
+<br>
 ├── color_detector.py # (Optional) Detect shape colors
+<br>
 └── README.md # Documentation
 
 
 ## ⚙️ Installation & Requirements  
-
-> 📝 Note: The table below is written in **Markdown table syntax**, not YAML.  
-> It just looks similar to YAML because of the structured format.  
 
 | Dependency      | Version / Command                |
 |-----------------|----------------------------------|
